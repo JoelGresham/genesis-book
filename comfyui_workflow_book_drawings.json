@@ -1,0 +1,158 @@
+{
+  "last_node_id": 15,
+  "last_link_id": 20,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "CheckpointLoaderSimple",
+      "pos": [50, 50],
+      "size": {"0": 315, "1": 98},
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "outputs": [
+        {"name": "MODEL", "type": "MODEL", "links": [1], "slot_index": 0},
+        {"name": "CLIP", "type": "CLIP", "links": [2, 3], "slot_index": 1},
+        {"name": "VAE", "type": "VAE", "links": [4], "slot_index": 2}
+      ],
+      "properties": {"Node name for S&R": "CheckpointLoaderSimple"},
+      "widgets_values": ["illustriousXL_v01.safetensors"]
+    },
+    {
+      "id": 2,
+      "type": "LoraLoader",
+      "pos": [400, 50],
+      "size": {"0": 315, "1": 126},
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {"name": "model", "type": "MODEL", "link": 1},
+        {"name": "clip", "type": "CLIP", "link": 2}
+      ],
+      "outputs": [
+        {"name": "MODEL", "type": "MODEL", "links": [5], "slot_index": 0},
+        {"name": "CLIP", "type": "CLIP", "links": [6], "slot_index": 1}
+      ],
+      "properties": {"Node name for S&R": "LoraLoader"},
+      "widgets_values": ["NSFW_master.safetensors", 0.0, 0.0]
+    },
+    {
+      "id": 3,
+      "type": "CLIPTextEncode",
+      "pos": [400, 230],
+      "size": {"0": 400, "1": 200},
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [{"name": "clip", "type": "CLIP", "link": 6}],
+      "outputs": [{"name": "CONDITIONING", "type": "CONDITIONING", "links": [7], "slot_index": 0}],
+      "properties": {"Node name for S&R": "CLIPTextEncode"},
+      "widgets_values": ["sketch illustration, simple line art, clean drawing, unfinished sketch style, scientific diagram, thought bubble, minimal shading, pencil drawing, black and white"]
+    },
+    {
+      "id": 4,
+      "type": "CLIPTextEncode",
+      "pos": [400, 480],
+      "size": {"0": 400, "1": 200},
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [{"name": "clip", "type": "CLIP", "link": 3}],
+      "outputs": [{"name": "CONDITIONING", "type": "CONDITIONING", "links": [8], "slot_index": 0}],
+      "properties": {"Node name for S&R": "CLIPTextEncode"},
+      "widgets_values": ["photograph, realistic, color, finished, polished, complex shading, digital art, anime, painting"]
+    },
+    {
+      "id": 5,
+      "type": "EmptyLatentImage",
+      "pos": [50, 250],
+      "size": {"0": 315, "1": 106},
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "outputs": [{"name": "LATENT", "type": "LATENT", "links": [9], "slot_index": 0}],
+      "properties": {"Node name for S&R": "EmptyLatentImage"},
+      "widgets_values": [768, 1024, 1]
+    },
+    {
+      "id": 6,
+      "type": "KSampler",
+      "pos": [850, 50],
+      "size": {"0": 315, "1": 262},
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {"name": "model", "type": "MODEL", "link": 5},
+        {"name": "positive", "type": "CONDITIONING", "link": 7},
+        {"name": "negative", "type": "CONDITIONING", "link": 8},
+        {"name": "latent_image", "type": "LATENT", "link": 9}
+      ],
+      "outputs": [{"name": "LATENT", "type": "LATENT", "links": [10], "slot_index": 0}],
+      "properties": {"Node name for S&R": "KSampler"},
+      "widgets_values": [42, "fixed", 25, 7.0, "euler_ancestral", "normal", 1.0]
+    },
+    {
+      "id": 7,
+      "type": "VAEDecode",
+      "pos": [1200, 50],
+      "size": {"0": 210, "1": 46},
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {"name": "samples", "type": "LATENT", "link": 10},
+        {"name": "vae", "type": "VAE", "link": 4}
+      ],
+      "outputs": [{"name": "IMAGE", "type": "IMAGE", "links": [11], "slot_index": 0}],
+      "properties": {"Node name for S&R": "VAEDecode"}
+    },
+    {
+      "id": 8,
+      "type": "SaveImage",
+      "pos": [1450, 50],
+      "size": {"0": 315, "1": 270},
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [{"name": "images", "type": "IMAGE", "link": 11}],
+      "properties": {},
+      "widgets_values": ["genesis_sketch"]
+    }
+    ,
+    {
+      "id": 15,
+      "type": "Note",
+      "pos": [50, 400],
+      "size": {"0": 700, "1": 900},
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "properties": {"text": ""},
+      "widgets_values": ["CHAPTER PROMPTS - Copy and paste into the positive prompt (node 3)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPART ONE: THE ARCHITECTS (Chapters 1-15)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nCHAPTER 1: The Watcher\nSketch of elegant dinosaur silhouette gazing upward at dawn sky, three stones arranged in deliberate pattern at feet, peaceful clearing, side view, scientific illustration style\n\nCHAPTER 2: The Communities  \nMultiple dinosaur figures across a landscape, each engaged in different precise behaviors, stone patterns, cliff carvings, distant mountains, birds-eye view diagram, connecting lines between locations\n\nCHAPTER 3: The Gathering\nHundreds of dinosaur silhouettes arranged in geometric pattern, all facing same direction, three-day vigil, mesa gathering place, minimal detail, pattern emphasis\n\nCHAPTER 4: The New Star\nDinosaur frozen in stillness looking at night sky, new point of light visible, mathematical calculation symbols floating around head, thought bubble style, contemplative pose\n\nCHAPTER 5: The Patterns Emerge\nClose-up of dinosaur claws arranging complex stone pattern, massive timeline spreading across ground, another figure in background bringing food, work-in-progress diagram\n\nCHAPTER 6: The Protectors\nDinosaur observing small mammal using stick tool, protective stance, nest visible, two-day stillness indicated by moon phases, patient watching, scientific observation style\n\nCHAPTER 7: The Mathematics [CRITICAL]\nDinosaur standing over fallen companion, three stones moved, work continues around the body, stark composition, grief through action, no sentimentality, archaeological site feeling\n\nCHAPTER 8: The Acceleration  \nAsteroid visible as small disk in sky, dinosaur in month-long stillness, time-lapse indication, multiple mammal generations, urgency building, calendar marks\n\nCHAPTER 9: The Encoding\nAerial view of complete stone timeline with distinct clusters, dinosaur moving between clusters and mammal populations, DNA helix patterns on cliff face, mapping diagram\n\nCHAPTER 10: The Architects [THE REVEAL]\nThree stones arranged in memorial pattern, dinosaur at completed timeline, small mammal with stick in foreground, asteroid filling quarter of sky, moment of completion\n\nCHAPTER 11: The Completion\nMultiple dinosaurs guiding specific mammals to survival territories, each carrying different encoded segments, beautiful calculated precision, distribution map style\n\nCHAPTER 12: The Witness\nYoung dinosaur watching elder work, crude stone imitation nearby, knowledge being passed, no spoken words, learning through observation, generational connection\n\nCHAPTER 13: The Silence  \nAsteroid dominating sky, dinosaurs in strange peace, visiting between territories, mathematical probability floating in thought bubble: 99.7%, quiet acceptance\n\nCHAPTER 14: The Last Gathering\nDinosaur families together at gathering points, two pressed close for warmth, young dinosaur with elder, mammals safely elsewhere, final hours, constellation pattern overhead\n\nCHAPTER 15: The Impact\nDinosaur checking calculations one final time as light approaches, satisfaction not fear, equation balanced, poetic but not graphic, mathematical symbols and light\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPART TWO: THE INHERITORS (Chapters 16-32)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nCHAPTER 16: The Sequence\nWoman at computer screen showing DNA sequence at 2 AM, too-regular patterns, fibonacci spirals, phone notification ignored, coffee cup, exhaustion visible, discovery moment\n\nCHAPTER 17: The Correlation\nComputer screen showing timeline: tool use, fire, agriculture clusters, activation markers highlighted, woman's hand trembling on mouse, correlation graphs, phone in other hand\n\nCHAPTER 18: The Historian\nTwo people over ancient timeline map, overlaying genetic data with historical discoveries, Newton and Leibniz simultaneous breakthrough notation, connection lines being drawn\n\nCHAPTER 19: The Genius\nMathematician staring at her own genome sequence, Fields Medal on desk, breakthrough moment deconstructed, \"it just came to me\" caption, identity questioning, mirror reflection\n\nCHAPTER 20: The Network\nBasement lab meeting, dozen researchers, screens showing full genetic code progression, one man answering with exact numbers, whispered concern, secret gathering atmosphere\n\nCHAPTER 21: The Simulation  \nComputer simulation showing planetary defense grid, asteroid trajectory, 65-million-year protection plan revealed, people realizing \"we're tools,\" existential horror in body language\n\nCHAPTER 22: The Activation\nWoman surrounded by intrusive blueprint visions, satellite networks floating in thought bubbles, can't sleep, Maya's photo pushed aside, compulsion overwhelming, loss of control\n\nCHAPTER 23: The Compulsion\nChild crying at lab door while mother works, unable to stop, screens and equations everywhere, man at 4 AM construction site, partner leaving, relationships fracturing, desperate isolation\n\nCHAPTER 24: The Choice\nSmall distant asteroid diagram, 40-year impact projection, woman on phone leaving voicemail, cutting off mid-sentence, returning to work, split between love and compulsion\n\nCHAPTER 25: The Broadcast\nWoman at broadcast setup, \"We are not the authors\" text visible, global reactions on multiple screens, construction continuing regardless, message notification on phone, truth spreading\n\nCHAPTER 26: The Resistance\nActivated woman fighting compulsion, physically ill, shaking hands, two-week calendar marked off, breaking point moment, \"I tried\" thought bubble, inevitable return\n\nCHAPTER 27: The Builder [CRITICAL]\nMan working while screaming, construction accident scene, loss and compulsion simultaneous, stone pattern dream symbols, wedding ring, unable to stop building, parallel to ancient grief\n\nCHAPTER 28: The Philosopher\nTwo people at remote site, working in silence, brief exchange in speech bubbles, capability vs personality debate, high altitude construction, mutual understanding, quiet recognition\n\nCHAPTER 29: The Line [THE LOVE SCENE - CRITICAL]\nCalibration screen showing \"COMPLETE\", two people on floor, cold concrete, confused tangle of need and exhaustion, no romanticism, raw humanity, dawn window light, return to work\n\nCHAPTER 30: The Completion\nPlanetary defense grid complete diagram, asteroid successfully deflected, two people brief reunion, strained mother-daughter relationship, 20-year markers, Maya with children, no resolution\n\nCHAPTER 31: The Message [CRITICAL]\nGenetic code revealing compressed memories, woman reading alone at night, ancient message decoded, \"that wondering might be the only real thing\" text, quiet contemplation\n\nCHAPTER 32: The Question\nElderly woman (78) in interview, reflection over 40 years, granddaughter questioning, photo of remarried man, space travel activation beginning, \"both were real\" realization, wisdom without answers\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nEPILOGUE: THE CYCLE (Chapter 33)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nCHAPTER 33: The Cycle\nAlien avian scientist on different planet, asteroid in sky, encoding small mammals, mate bringing food, one-day pause after loss, return to calculation, \"The mathematics was complete\" eternal cycle\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nUSAGE NOTES:\n- These are SKETCH prompts - add the base style from node 3\n- Each creates a simple, clean illustration that hints without spoiling\n- Part 1 (dinosaurs): No dialogue, observational, alien intelligence\n- Part 2 (humans): Intimate, desperate, relationships fracturing\n- Keep minimal shading, thought bubbles for internal concepts\n- Black and white, scientific diagram aesthetic throughout\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"],
+      "color": "#432",
+      "bgcolor": "#653"
+    }
+  ],
+  "links": [
+    [1, 1, 0, 2, 0, "MODEL"],
+    [2, 1, 1, 2, 1, "CLIP"],
+    [3, 1, 1, 4, 0, "CLIP"],
+    [4, 1, 2, 7, 1, "VAE"],
+    [5, 2, 0, 6, 0, "MODEL"],
+    [6, 2, 1, 3, 0, "CLIP"],
+    [7, 3, 0, 6, 1, "CONDITIONING"],
+    [8, 4, 0, 6, 2, "CONDITIONING"],
+    [9, 5, 0, 6, 3, "LATENT"],
+    [10, 6, 0, 7, 0, "LATENT"],
+    [11, 7, 0, 8, 0, "IMAGE"]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "workflow_name": "Genesis Code - Book Interior Drawings",
+    "workflow_description": "Sketch-style illustrations for book interior. Simple, clean line art with minimal shading. Perfect for scientific diagrams, thought bubbles, and chapter illustrations."
+  },
+  "version": 0.4
+}
