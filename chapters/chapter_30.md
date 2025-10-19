@@ -12,7 +12,7 @@ She felt nothing. No fear. No excitement. Just the immediate cascade of calculat
 
 Responses came from seventeen stations across the globe. Moscow. Cape Canaveral. Beijing. Mumbai. São Paulo. Everyone activated. Everyone working. The planetary defense network humanity had spent two decades building was about to be tested for the first time.
 
-Not the first time, Sarah corrected herself. The first time this iteration of life had built it. The Watcher's version had existed 65 million years ago. Different technology. Same purpose. The pattern repeated.
+Not the first time, Sarah corrected herself. The first time this iteration of life had built it. Aurelia's version had existed 65 million years ago. Different technology. Same purpose. The pattern repeated.
 
 "Grid status?" she asked.
 
@@ -95,7 +95,7 @@ The pattern unfolding. The program executing.
 
 Yuki considered this. "No. Maybe that's the programming. Maybe I'm supposed to want this. But it feels right. Feels like purpose. Feels like the most important thing I could possibly do with my existence."
 
-Sarah thought of The Watcher. Standing with her dead mate. Then returning to work. The compulsion and the choice merged into something indistinguishable.
+Sarah thought of Aurelia. Standing with her dead mate. Then returning to work. The compulsion and the choice merged into something indistinguishable.
 
 "Good luck," Sarah said.
 

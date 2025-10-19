@@ -42,15 +42,15 @@ Others argued against. The revelation would cause panic. Social collapse. Existe
 
 Sarah listened to both sides. Understood both positions. Couldn't choose between them.
 
-"What does the genetic data suggest?" Katherine asked. Turning to Sarah. "Did The Watcher intend for us to know? Is there disclosure built into the program?"
+"What does the genetic data suggest?" Katherine asked. Turning to Sarah. "Did Aurelia intend for us to know? Is there disclosure built into the program?"
 
 Sarah thought about this. Reviewed what she knew. The activation sequences. The capability thresholds. The timeline programmed into mammalian DNA 65 million years ago.
 
-"There's no specific disclosure sequence," she said. "But the activation was always going to be obvious. Thousands of people worldwide simultaneously developing the same capability, building the same thing? That was going to raise questions. The Watcher must have known we'd figure it out."
+"There's no specific disclosure sequence," she said. "But the activation was always going to be obvious. Thousands of people worldwide simultaneously developing the same capability, building the same thing? That was going to raise questions. Aurelia must have known we'd figure it out."
 
 "So disclosure was planned?"
 
-"Or inevitable. Or irrelevant. I don't know what The Watcher thought about human psychology. They were reptilian intelligence. Maybe they didn't consider whether we'd want to know. Maybe they just built the capability and assumed we'd use it."
+"Or inevitable. Or irrelevant. I don't know what Aurelia thought about human psychology. They were reptilian intelligence. Maybe they didn't consider whether we'd want to know. Maybe they just built the capability and assumed we'd use it."
 
 "We are using it," Marcus said. "Everyone in this room is using it. The question isn't whether the capability works. It's whether revealing the source helps or hurts."
 
@@ -66,7 +66,7 @@ Sarah looked around the room. At the activated individuals. At the people whose 
 
 "Why not?" someone asked.
 
-"Because The Watcher did this for us. Because 65 million years ago, beings who knew they were going to die chose to program our capability because they loved this planet enough to protect it even after they were gone. That's not something to hide. That's beautiful."
+"Because Aurelia did this for us. Because 65 million years ago, beings who knew they were going to die chose to program our capability because they loved this planet enough to protect it even after they were gone. That's not something to hide. That's beautiful."
 
 "It's also horrifying," Martinez said. "It means we're tools. Biological machines executing someone else's program."
 
@@ -138,7 +138,7 @@ Sarah found Marcus in the hallway. Leaning against the wall. Looking exhausted.
 
 "That's where I am."
 
-Sarah thought about the compulsion. About the work consuming her. About Maya growing up without a mother. About The Watcher standing over The Companion's body before returning to work.
+Sarah thought about the compulsion. About the work consuming her. About Maya growing up without a mother. About Aurelia standing over The Companion's body before returning to work.
 
 "If we disclose," she said, "people will hate us. Will blame us for revealing it. Will wish we'd kept the secret."
 
@@ -216,7 +216,7 @@ How did you explain genetic compulsion to an eight-year-old? How did you describ
 
 "When will you be done? When can you be normal again?"
 
-Sarah felt something break in her chest. The same thing that broke when she discovered the genetic code. When she realized her capability was programmed. When she understood that The Watcher had built this into her 65 million years ago.
+Sarah felt something break in her chest. The same thing that broke when she discovered the genetic code. When she realized her capability was programmed. When she understood that Aurelia had built this into her 65 million years ago.
 
 "I don't know, sweetie. I hope soon. But I don't know."
 
@@ -242,7 +242,7 @@ Sarah felt something break in her chest. The same thing that broke when she disc
 
 The call ended. Sarah stood in the hallway. Phone in hand. That broken thing in her chest expanding. Filling her. Overwhelming everything.
 
-She cried. Actually cried. For the first time in months. Standing in the hallway at 4 AM. Crying for her daughter. For herself. For The Watcher who'd had young and left them to encode the future. For every being who'd ever chosen purpose over presence.
+She cried. Actually cried. For the first time in months. Standing in the hallway at 4 AM. Crying for her daughter. For herself. For Aurelia who'd had young and left them to encode the future. For every being who'd ever chosen purpose over presence.
 
 Marcus stood nearby. Watching. Not intervening. Just present.
 
@@ -290,7 +290,7 @@ They would tell the truth. Would disclose the programming. Would show humanity w
 
 And whatever came after—panic, despair, acceptance, rage—would be honest. Would be real. Would be chosen as much as anything could be chosen by beings who might be executing code.
 
-The asteroid was coming. 38 years and counting. Humanity needed to build its defense. Needed to use the capability The Watcher had encoded.
+The asteroid was coming. 38 years and counting. Humanity needed to build its defense. Needed to use the capability Aurelia had encoded.
 
 And humanity deserved to know what that capability was. Where it came from. What it cost.
 
@@ -316,7 +316,7 @@ Maybe that was the only freedom anyone ever had.
 
 The choice to care even when caring hurt. The choice to try even when trying wasn't enough. The choice to love even when love competed with compulsion.
 
-Maybe that was what The Watcher had given them. Not just capability. But the capacity to choose despite the code. To act despite the programming. To love despite the compulsion.
+Maybe that was what Aurelia had given them. Not just capability. But the capacity to choose despite the code. To act despite the programming. To love despite the compulsion.
 
 Or maybe that was just another subroutine. Another layer of code. Another way the program executed.
 

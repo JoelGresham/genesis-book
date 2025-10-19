@@ -1,6 +1,6 @@
 # Chapter 4: The New Star
 
-The sky had always contained patterns. Points of light that wheeled through their courses with mathematical precision. Constellations that rose and set according to laws that predated any observation of them. The Watcher had tracked these patterns since she was old enough to tilt her head upward, calculating orbital mechanics before she had context for what orbits were.
+The sky had always contained patterns. Points of light that wheeled through their courses with mathematical precision. Constellations that rose and set according to laws that predated any observation of them. Aurelia had tracked these patterns since she was old enough to tilt her head upward, calculating orbital mechanics before she had context for what orbits were.
 
 She understood the sky the way others understood hunting or territory or the hierarchy of threat. It was simply knowledge that existed in her, built perhaps from observation or perhaps from something deeper—inherited awareness passed down through generations, each adding their calculations to some collective
 
@@ -22,7 +22,7 @@ Not sudden. It had been becoming visible for several moments, gradual as all sta
 
 Wrong.
 
-The Watcher's entire body went rigid.
+Aurelia's entire body went rigid.
 
 Across the ravine, the other one went equally still.
 
@@ -32,13 +32,13 @@ The massive long-necks halted mid-step, their tiny brains nevertheless capable o
 
 And all the small ones, the thinkers, the calculators—every single one of them locked into absolute stillness. From the Builder at his stone formations to the Carver clinging to her cliff face to the Pair in their marsh clearing, every individual capable of complex thought stopped moving.
 
-Even the young ones. The Watcher's three hatchlings emerged from the hollow, drawn by some instinct they were too juvenile to understand. They saw her stillness and mimicked it, their small heads tilting at the same angle as hers, looking at a star they couldn't possibly comprehend the significance of.
+Even the young ones. Aurelia's three hatchlings emerged from the hollow, drawn by some instinct they were too juvenile to understand. They saw her stillness and mimicked it, their small heads tilting at the same angle as hers, looking at a star they couldn't possibly comprehend the significance of.
 
 For three days, the world held its breath.
 
 ---
 
-The Watcher didn't move from her position at the ravine's edge. Didn't eat. Barely breathed. The young ones, unable to maintain such stillness, eventually wandered back to the hollow and slept, woke, grew hungry, made their demanding chirps. She didn't respond. They found cached food on their own and ate it messily, uncertain but surviving.
+Aurelia didn't move from her position at the ravine's edge. Didn't eat. Barely breathed. The young ones, unable to maintain such stillness, eventually wandered back to the hollow and slept, woke, grew hungry, made their demanding chirps. She didn't respond. They found cached food on their own and ate it messily, uncertain but surviving.
 
 The other one brought more food for them. Placed it where they would find it. Returned to his own position of stillness. They were all still calculating.
 
@@ -80,7 +80,7 @@ Outcome: inevitable.
 
 The stillness broke.
 
-The Watcher's head lowered. Her breathing deepened. Her legs trembled with the exhaustion of three days' stillness. She took one step, then another, moving slowly at first as circulation returned to full function.
+Aurelia's head lowered. Her breathing deepened. Her legs trembled with the exhaustion of three days' stillness. She took one step, then another, moving slowly at first as circulation returned to full function.
 
 Behind her, the young ones emerged from the hollow again, sensing the change. They tumbled toward her with relieved chirps, pressing against her legs. She bent her head to acknowledge them briefly. They were hungry. They would need proper hunting soon, not just cached scraps.
 
@@ -126,7 +126,7 @@ As the sun cleared the treeline, the other one finally moved toward his own roos
 
 Close enough to help. Close enough to contribute. Close enough to matter.
 
-The Watcher returned to her own hollow, where the young ones were waking, hungry and demanding. She led them to hunt, teaching them the precision their developing minds could handle, saving the deeper calculations for later.
+Aurelia returned to her own hollow, where the young ones were waking, hungry and demanding. She led them to hunt, teaching them the precision their developing minds could handle, saving the deeper calculations for later.
 
 When later would come was now quantified. 2,247 rotations. Every one of them would count.
 

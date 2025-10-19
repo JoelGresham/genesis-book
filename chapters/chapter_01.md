@@ -1,4 +1,4 @@
-# Chapter 1: The Watcher
+# Chapter 1: Aurelia
 
 The light came first, threading through the canopy in narrow shafts that turned the mist to silver. She stood in the clearing, perfectly still, her head tilted at an angle that would have seemed awkward if held by another creature but appeared natural on her. The position hadn't changed in three hours.
 
@@ -74,4 +74,4 @@ They meant everything.
 
 But there was no one to read them. Not yet. Not for a very long time.
 
-The Watcher slept, and dreamed of trajectories.
+Aurelia slept, and dreamed of trajectories.

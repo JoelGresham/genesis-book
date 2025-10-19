@@ -18,7 +18,7 @@ They had chosen together.
 
 ---
 
-The Watcher had not moved from her position for seven rotations. Didn't need to move. Didn't need food or water. The body's requirements had become irrelevant. Survival for three more rotations required no special preparation. Just endurance. Just maintaining consciousness long enough to witness the final calculation resolve into physical reality.
+Aurelia had not moved from her position for seven rotations. Didn't need to move. Didn't need food or water. The body's requirements had become irrelevant. Survival for three more rotations required no special preparation. Just endurance. Just maintaining consciousness long enough to witness the final calculation resolve into physical reality.
 
 Around her, the gathering had thinned. Many had died from the heat. Others had left—driven by instinct to return to home territories, to familiar places, to the locations where they had lived and worked. The urge to die in known territory was strong even when knowing that territory would cease to exist as recognizable form.
 
@@ -34,15 +34,15 @@ The young one's survival probability was fifteen percent. Better than most. She 
 
 But fifteen percent was still mostly death probability. Still likely termination. Still the equation balancing toward extinction for this specific individual as for most specific individuals.
 
-The Watcher ran the calculation one more time. Couldn't help calculating. Would calculate until consciousness ceased because calculation was what consciousness did.
+Aurelia ran the calculation one more time. Couldn't help calculating. Would calculate until consciousness ceased because calculation was what consciousness did.
 
 Fifteen percent for this young one. Eight percent for the full project. Ninety-seven percent that something survived. Probabilities nested within probabilities. Individual outcomes uncertain. Aggregate results predictable. The mathematics clear even as specific manifestation remained unknown.
 
 ---
 
-The Daughter arrived on the gathering's periphery as the third rotation began. The Watcher hadn't expected her. Thought she had returned to her own territory with her mate and offspring. But she came anyway. Came without her family. Just herself. Choosing to spend final rotation at the witness location rather than the home territory.
+The Daughter arrived on the gathering's periphery as the third rotation began. Aurelia hadn't expected her. Thought she had returned to her own territory with her mate and offspring. But she came anyway. Came without her family. Just herself. Choosing to spend final rotation at the witness location rather than the home territory.
 
-She found her position—not next to the Watcher, not distant either. Close enough for presence. Far enough for independence. The Watcher acknowledged her with slight posture shift. The daughter returned the acknowledgment. No other communication passed between them.
+She found her position—not next to the Watcher, not distant either. Close enough for presence. Far enough for independence. Aurelia acknowledged her with slight posture shift. The daughter returned the acknowledgment. No other communication passed between them.
 
 They had worked together for years. Had calculated complementary aspects of the same problem. Had raised young who would contribute their own understanding. Had built patterns that intersected and reinforced each other.
 
@@ -80,7 +80,7 @@ Presence for the dead was meaningless. The dead didn't experience anything. Didn
 
 But the surviving one stayed anyway. Maintained contact. Chose to spend final rotation pressed against a body that no longer contained consciousness. Because connection mattered even when one half of the connection had terminated. Because the relationship had been real even if it couldn't be calculated. Because some behaviors persisted beyond their functional utility simply because they felt necessary.
 
-The Watcher understood this. Thought of the other one who had dispersed years ago. Thought of the marked stone that indicated where his matter had been. Thought of the final positioning she had given his pattern section—maintaining his contribution, honoring his work, keeping his understanding alive even though he wasn't present to witness it persist.
+Aurelia understood this. Thought of the other one who had dispersed years ago. Thought of the marked stone that indicated where his matter had been. Thought of the final positioning she had given his pattern section—maintaining his contribution, honoring his work, keeping his understanding alive even though he wasn't present to witness it persist.
 
 She had done something similar to what the Pair's survivor was doing. Had maintained connection to consciousness that no longer existed. Had behaved as if the relationship still mattered even though one participant had terminated.
 
@@ -102,7 +102,7 @@ One rotation remaining.
 
 The wrongstar's scale had become incomprehensible. It filled every direction. Looking up or east or west or south or north—everywhere was wrongstar. The world had ceased to exist. Only the approaching collision mattered. Only the final moment that was approaching with mathematical certainty.
 
-The Watcher stood in the position she had chosen. Had not moved for ten rotations. Her body was shutting down from heat exposure. Organs failing systematically. Consciousness would terminate soon even without the impact. But she would last one more rotation. Would maintain awareness long enough to witness.
+Aurelia stood in the position she had chosen. Had not moved for ten rotations. Her body was shutting down from heat exposure. Organs failing systematically. Consciousness would terminate soon even without the impact. But she would last one more rotation. Would maintain awareness long enough to witness.
 
 The young female was still present. Still standing. Still surviving through youth and resilience and genetic luck. She would see the impact. Would experience the shockwave. Would probably survive the initial blast. Her deep cave was only half a rotation's travel away. If she left now, she could reach it before impact. Could hide. Could maximize survival probability.
 
@@ -148,7 +148,7 @@ And they would die knowing this. Would terminate with certainty that the work wa
 
 That certainty was all consciousness could claim. Understanding without survival. Truth without continuation. Knowledge that existed for one moment before dispersing with the knower.
 
-The Watcher looked at the gathering one final time. Thousands had become hundreds. Hundreds were becoming dozens as the heat killed systematically. But enough remained. Enough witnesses to confirm the calculation. Enough consciousness to observe truth.
+Aurelia looked at the gathering one final time. Thousands had become hundreds. Hundreds were becoming dozens as the heat killed systematically. But enough remained. Enough witnesses to confirm the calculation. Enough consciousness to observe truth.
 
 The daughter stood in her position. Still present. Still conscious. She would not survive the shockwave. She had known this. Had come anyway.
 
@@ -188,7 +188,7 @@ That was everything.
 
 The wrongstar was so close now that individual features on the surface were enormous. Mountain-sized irregularities. Plains the size of continents. All of it approaching at velocity that made the numbers abstract even as the reality was devastatingly concrete.
 
-The Watcher checked the calculation one final time.
+Aurelia checked the calculation one final time.
 
 Everything was positioned correctly.
 

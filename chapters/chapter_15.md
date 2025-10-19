@@ -8,7 +8,7 @@ The sky ignited.
 
 Not gradually. Instantaneously. The entire visible atmosphere became luminous. Brighter than day. Brighter than anything that had existed before. Light that carried heat. Light that was heat. Light that burned.
 
-The Watcher's final thought was observation: the calculations were correct.
+Aurelia's final thought was observation: the calculations were correct.
 
 The trajectory matched prediction within error margins. The atmospheric interaction was proceeding as modeled. The angle of approach was optimal for maximum global distribution of ejecta. Everything was exactly as the mathematics had determined it would be.
 
@@ -38,7 +38,7 @@ The young female made it three seconds longer. Landed. Tried to run toward her c
 
 The Pair's bodies ignited where they lay. The intertwined necks maintained their position briefly as matter converted to combustion. Then even the physical connection failed. Dispersed. Returned to constituent elements.
 
-The Watcher's body ceased functioning. Organs shut down. Neural activity terminated. The vast cathedral of calculation that had existed behind her eyes—the timelines and probability curves and encoded instructions spanning 65 million years—all of it vanished in an instant.
+Aurelia's body ceased functioning. Organs shut down. Neural activity terminated. The vast cathedral of calculation that had existed behind her eyes—the timelines and probability curves and encoded instructions spanning 65 million years—all of it vanished in an instant.
 
 Consciousness ended.
 
@@ -134,7 +134,7 @@ On the northern plateau, long empty of witnesses, wind scattered the last stones
 
 But the understanding persisted. Encoded in living flesh. Written in DNA. Waiting to unfold across geological time.
 
-The Watcher's consciousness had terminated. Her body had dispersed. Her individual existence was complete.
+Aurelia's consciousness had terminated. Her body had dispersed. Her individual existence was complete.
 
 But her work continued. Her calculations propagated forward. Her contribution to collective understanding existed independent of her presence.
 

@@ -30,7 +30,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ### Part One: The Architects (Chapters 1-15)
 - 65 million years ago
-- Follows intelligent dinosaurs, primarily "The Watcher"
+- Follows intelligent dinosaurs, primarily "Aurelia"
 - Observational, documentary style
 - **NO dialogue** (dinosaurs don't speak)
 - Shows intelligence through deliberate action
@@ -55,7 +55,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 ## KEY CHARACTERS
 
 ### Part One:
-- **The Watcher:** Primary protagonist dinosaur (Troodontid), brilliant architect of the code
+- **Aurelia:** Primary protagonist dinosaur (Troodontid), brilliant architect of the code
 - **The Companion:** Her mate, supports her work, dies mid-project
 - **The Builder, The Pair, The Carver:** Other architect dinosaurs doing parallel work
 
@@ -72,7 +72,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 ## THE LOVE STORY (Subtle Throughout, Central in Chapter 29)
 
 ### Part One:
-- The Watcher and The Companion: Physical proximity, functional partnership
+- Aurelia and The Companion: Physical proximity, functional partnership
 - He brings her food, protects her work, tries to help
 - He dies; she stops for three days, then returns to work
 - Love drives the code but doesn't stop it
@@ -87,7 +87,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 - The word "love" never appears in Chapter 29
 
 ### The Parallel:
-- The Watcher choosing work after loss = Sarah/Marcus choosing despite uncertainty
+- Aurelia choosing work after loss = Sarah/Marcus choosing despite uncertainty
 - Love isn't programmed; it's what makes the programming matter
 - Physical connection across 65 million years proving something transcends code
 
@@ -99,7 +99,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 **The reader must experience vertigo—everything they thought about human progress is wrong.**
 
 **Structure:**
-- The Watcher completes her massive stone timeline
+- Aurelia completes her massive stone timeline
 - Observes mammal using a stick to extract food
 - **KEY PASSAGE:** "She had waited seventeen generations for this mutation..."
 - Reveals she's programmed: tool use, fire, agriculture, astronomy, etc.
@@ -121,7 +121,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 - NOT romantic—gritty, messy, real
 - Afterwards: trying to understand what it was
 - David's words: "I choose you every day. That makes it real."
-- Realization about The Watcher—she felt something and worked anyway
+- Realization about Aurelia—she felt something and worked anyway
 - Return to work—something shifted but unnamed
 
 **Critical requirements:**
@@ -167,12 +167,12 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 # PART ONE: THE ARCHITECTS (65 Million Years Ago)
 
-## Chapter 1: The Watcher (3,500 words)
+## Chapter 1: Aurelia (3,500 words)
 
 **Summary:** Opens with beautiful scene: dinosaur in clearing at dawn. She's watching the sky for hours—seems like animal behavior. Arranges three stones in precise pattern. Graceful, deliberate, patient. Establishes baseline: this looks like instinct but there's something more.
 
 **Key beats:**
-- Introduce The Watcher, sky-watching, stone pattern, extraordinary patience
+- Introduce Aurelia, sky-watching, stone pattern, extraordinary patience
 
 **Emotional arc:** Wonder at natural world, peaceful
 
@@ -182,7 +182,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 2: The Communities (4,000 words)
 
-**Summary:** Introduce other dinosaur characters in different locations. The Builder arranges/destroys complex stone patterns. The Pair sit motionless facing each other for days. The Carver etches patterns into cliff faces. The Companion near The Watcher's territory, watches her from distance. Show normal dinosaur life mixed with strange behaviors. All periodically look at same sky point.
+**Summary:** Introduce other dinosaur characters in different locations. The Builder arranges/destroys complex stone patterns. The Pair sit motionless facing each other for days. The Carver etches patterns into cliff faces. The Companion near Aurelia's territory, watches her from distance. Show normal dinosaur life mixed with strange behaviors. All periodically look at same sky point.
 
 **Key beats:**
 - Multiple strange behaviors
@@ -198,7 +198,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 3: The Gathering (4,000 words)
 
-**Summary:** Dinosaurs worldwide move toward gathering points. The Watcher has three hatchlings. The Companion has been bringing food to her nest. She leaves for gathering; he stays to guard young. She looks back multiple times (first hint of connection). At gathering: hundreds of dinosaurs in geometric pattern, watch sky for three days, completely still.
+**Summary:** Dinosaurs worldwide move toward gathering points. Aurelia has three hatchlings. The Companion has been bringing food to her nest. She leaves for gathering; he stays to guard young. She looks back multiple times (first hint of connection). At gathering: hundreds of dinosaurs in geometric pattern, watch sky for three days, completely still.
 
 **Key beats:**
 - Journey, leaving young with The Companion
@@ -214,7 +214,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 4: The New Star (3,500 words)
 
-**Summary:** New point of light appears in sky (the asteroid). Every dinosaur globally freezes simultaneously. Three full days of stillness (they're calculating). Other animals continue normally—only dinosaurs affected. After three days, all move simultaneously, return to territories. The Watcher returns: The Companion with her young, they've grown. He's fed and protected them. Moment: they stand close, tails almost touching.
+**Summary:** New point of light appears in sky (the asteroid). Every dinosaur globally freezes simultaneously. Three full days of stillness (they're calculating). Other animals continue normally—only dinosaurs affected. After three days, all move simultaneously, return to territories. Aurelia returns: The Companion with her young, they've grown. He's fed and protected them. Moment: they stand close, tails almost touching.
 
 **Key beats:**
 - New star appears
@@ -231,7 +231,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 5: The Patterns Emerge (4,000 words)
 
-**Summary:** The Watcher begins massive stone pattern (takes weeks). The Companion brings food while she works. Hatchlings more independent. He attempts to arrange stones near hers (simpler, cruder). She doesn't correct—just continues. Other Architects intensify work globally. Small mammals appearing near work sites (not hunted).
+**Summary:** Aurelia begins massive stone pattern (takes weeks). The Companion brings food while she works. Hatchlings more independent. He attempts to arrange stones near hers (simpler, cruder). She doesn't correct—just continues. Other Architects intensify work globally. Small mammals appearing near work sites (not hunted).
 
 **Key beats:**
 - Massive pattern work
@@ -248,7 +248,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 6: The Protectors (4,000 words)
 
-**Summary:** The Watcher begins interacting with small mammals—protecting specific nests. The Companion follows her lead, does the same. She observes mammal use stick to extract insects. Goes completely still for two full days watching it. Companion brings food, sets it near her (she barely acknowledges). After two days, ensures that specific tool-using mammal breeds.
+**Summary:** Aurelia begins interacting with small mammals—protecting specific nests. The Companion follows her lead, does the same. She observes mammal use stick to extract insects. Goes completely still for two full days watching it. Companion brings food, sets it near her (she barely acknowledges). After two days, ensures that specific tool-using mammal breeds.
 
 **Key beats:**
 - Protecting mammals
@@ -265,7 +265,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 7: The Mathematics [CRITICAL CHAPTER] (4,500 words)
 
-**Summary:** Asteroid brighter, visible during day. The Watcher's stillness extends to weeks. The Companion dies suddenly: fall, injury, natural for the era. She finds him near her work site, food still in his mouth. **CRITICAL SCENE:** She stands over his body. Doesn't move for three days. Doesn't eat, doesn't work. On third day: moves one stone in pattern. Returns to body for an hour. Then back to work permanently. She doesn't bury him—he becomes landscape. Works around his decaying body for weeks. Never stops working again.
+**Summary:** Asteroid brighter, visible during day. Aurelia's stillness extends to weeks. The Companion dies suddenly: fall, injury, natural for the era. She finds him near her work site, food still in his mouth. **CRITICAL SCENE:** She stands over his body. Doesn't move for three days. Doesn't eat, doesn't work. On third day: moves one stone in pattern. Returns to body for an hour. Then back to work permanently. She doesn't bury him—he becomes landscape. Works around his decaying body for weeks. Never stops working again.
 
 **Key beats:**
 - Companion dies with food in mouth
@@ -286,7 +286,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 8: The Acceleration (3,500 words)
 
-**Summary:** Months pass. Asteroid visible as small disk. The Watcher still for a month straight (her longest). Mammals changed across multiple generations. Other Architects intensify globally. The Pair finally moves, begin own breeding programs. Brief scene: another dinosaur pair curling together at night for warmth (physical comfort, no poetry). They work separately by day, together at night.
+**Summary:** Months pass. Asteroid visible as small disk. Aurelia still for a month straight (her longest). Mammals changed across multiple generations. Other Architects intensify globally. The Pair finally moves, begin own breeding programs. Brief scene: another dinosaur pair curling together at night for warmth (physical comfort, no poetry). They work separately by day, together at night.
 
 **Key beats:**
 - Time jump, asteroid growing
@@ -303,7 +303,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 9: The Encoding (4,000 words)
 
-**Summary:** The Watcher's stone pattern complete. Seen from above: it's a timeline with distinct clusters. She moves between clusters and mammal populations. Certain mammals guided to certain clusters. Mapping genetic lineages to technological milestones. Carver's cliff covered in DNA-helix-like patterns. Global coordination visible.
+**Summary:** Aurelia's stone pattern complete. Seen from above: it's a timeline with distinct clusters. She moves between clusters and mammal populations. Certain mammals guided to certain clusters. Mapping genetic lineages to technological milestones. Carver's cliff covered in DNA-helix-like patterns. Global coordination visible.
 
 **Key beats:**
 - Complete timeline visible
@@ -320,7 +320,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 10: The Architects [THE REVEAL - MOST CRITICAL] (5,000 words)
 
-**Summary:** The Watcher in stillness for six weeks (longest yet). Asteroid fills quarter of sky. Other Architects come to witness her work. She stands where The Companion's body was (nothing remains). Arranges three stones there (same pattern from Chapter 1). Returns to timeline, makes final adjustments. We see clusters clearly: stone tools, fire, agriculture, astronomy, mathematics, planetary defense.
+**Summary:** Aurelia in stillness for six weeks (longest yet). Asteroid fills quarter of sky. Other Architects come to witness her work. She stands where The Companion's body was (nothing remains). Arranges three stones there (same pattern from Chapter 1). Returns to timeline, makes final adjustments. We see clusters clearly: stone tools, fire, agriculture, astronomy, mathematics, planetary defense.
 
 **THE CRITICAL MOMENT:** Observes mammal using stick.
 
@@ -328,7 +328,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 > The small creature extracted the grub with the stick, ate, then—and this was crucial—set the stick aside carefully, deliberately. It would use that stick again tomorrow.
 >
-> The Watcher had waited seventeen generations for this mutation.
+> Aurelia had waited seventeen generations for this mutation.
 >
 > The creature would not understand for millions of years. None of them would. But they would discover fire when their population density reached the threshold she had calculated. They would develop agriculture when the climate stabilized in 10,000 years. They would invent writing when their vocal structures evolved the three specific markers she had selected for in generation forty-three.
 >
@@ -360,7 +360,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 **CUT BACK:**
 
-> The Watcher returned to stillness. The mathematics was complete.
+> Aurelia returned to stillness. The mathematics was complete.
 
 **END CHAPTER**
 
@@ -390,7 +390,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 12: The Witness (3,000 words)
 
-**Summary:** Young dinosaur watches The Watcher. Arranges stones in crude imitation. Intelligence is species-wide, varying levels. Passing of knowledge even with no future.
+**Summary:** Young dinosaur watches Aurelia. Arranges stones in crude imitation. Intelligence is species-wide, varying levels. Passing of knowledge even with no future.
 
 ---
 
@@ -617,7 +617,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 **Tone:** Intimate complexity, then brutal tragedy
 
-**SPECIAL NOTE:** David's death must be visceral. Marcus working while his husband's body is visible. He's screaming. He's working. He can't stop either. This parallels The Watcher working around The Companion's body. Make it hurt.
+**SPECIAL NOTE:** David's death must be visceral. Marcus working while his husband's body is visible. He's screaming. He's working. He can't stop either. This parallels Aurelia working around The Companion's body. Make it hurt.
 
 ---
 
@@ -718,7 +718,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > The modified mammals—did they feel this? This confusion of want and need and choice and instinct?
 >
-> Did The Watcher?
+> Did Aurelia?
 >
 > Marcus pulled back. Breathing hard.
 >
@@ -738,7 +738,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > Then: what else would it be?
 >
-> Then: did The Watcher's mate pin her against prehistoric stone like this? Did she stop caring whether it meant something or if it was just cells following chemical commands?
+> Then: did Aurelia's mate pin her against prehistoric stone like this? Did she stop caring whether it meant something or if it was just cells following chemical commands?
 >
 > Did she just... feel it?
 >
@@ -774,7 +774,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > She sat up. Found her pants. Dressed without looking at him.
 >
-> "I think about her sometimes," she said. "The Watcher."
+> "I think about her sometimes," she said. "Aurelia."
 >
 > Marcus sat up too.
 >
@@ -796,7 +796,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > For what? The future. The planet. People not born yet.
 >
-> For Maya. For David who died building it. For The Watcher who never saw it work.
+> For Maya. For David who died building it. For Aurelia who never saw it work.
 >
 > The feeling in her chest sharpened.
 >
@@ -838,7 +838,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > But the choosing. The doing it anyway. Even uncertain. Even confused.
 >
-> The Watcher chose to keep working after her mate died.
+> Aurelia chose to keep working after her mate died.
 >
 > Not because she didn't feel something.
 >
@@ -862,17 +862,17 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 >
 > She'd stopped trying to untangle it.
 >
-> Maybe The Watcher had too.
+> Maybe Aurelia had too.
 
 **Key beats:**
 - Calibration completes, compulsion goes quiet
 - Vacuum that creates
 - "Come here anyway"
 - Physical scene: desperate, console, then floor, cold concrete, biting, blood, no finesse
-- "Did The Watcher feel this?"
+- "Did Aurelia feel this?"
 - After: lying on floor, unnamed sharp feeling
 - David's story about need vs want
-- Sarah brings up The Watcher: stopped three days, then worked
+- Sarah brings up Aurelia: stopped three days, then worked
 - "Maybe there's no difference"
 - David's final words: "I choose you every day. That makes it real."
 - Realization: the choosing, doing anyway despite uncertainty
@@ -893,7 +893,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 - Philosophy comes AFTER in dialogue
 - They don't become a couple—it's a moment
 - End with return to work, something shifted but unnamed
-- Parallel to The Watcher emerges naturally through conversation, not stated
+- Parallel to Aurelia emerges naturally through conversation, not stated
 - Make reader feel same confusion as characters
 
 **CRITICAL NOTE:** This is THE most important chapter in Part Two. It must be raw, messy, real—like actual human connection. Not a romance novel. The reader should feel disoriented about what they're feeling, just like the characters.
@@ -921,7 +921,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 31: The Message [CRITICAL CHAPTER] (4,000 words)
 
-**Summary:** Deep in genetic code, researchers find something new. Not instructions—data. Encoded memories, compressed impossibly. When decoded: information about the Architects. A message, placed to be found AFTER grid completion. It's from The Watcher.
+**Summary:** Deep in genetic code, researchers find something new. Not instructions—data. Encoded memories, compressed impossibly. When decoded: information about the Architects. A message, placed to be found AFTER grid completion. It's from Aurelia.
 
 **THE WATCHER'S MESSAGE (full text):**
 
@@ -954,7 +954,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 **Key beats:**
 - Message discovered
 - Decoded
-- The Watcher's words
+- Aurelia's words
 - No answers given just acknowledgment
 - Sarah's quiet reaction
 
@@ -968,9 +968,9 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 
 ## Chapter 32: The Question (4,500 words)
 
-**Summary:** Sarah, now elderly (78), final interview. Reflects on 40 years since discovery. "Are we free? I don't know. But we're alive, we're conscious, we're capable of asking the question. Maybe that's all freedom ever was." Next generation's perspective: Young people don't struggle like her generation did. Maya's daughter (18): "So we're built for a purpose. So what? I still choose how I feel about it." Sarah: "You sound like your mother." Granddaughter: "She said you missed a lot." Sarah: "I did." "Was it worth it?" "I don't know. I did it anyway. Maybe that's all worth ever means." Marcus (now 68): Brief mention. Still alive, remarried. Someone shows Sarah a photo. She feels that sharp thing in her chest again. Still can't name it. Doesn't need to. New activation clusters beginning. Space travel, precisely on The Watcher's timeline. Final question: "If we meet other civilizations, will they be following code too? Is the entire universe just... instructions, all the way down?"
+**Summary:** Sarah, now elderly (78), final interview. Reflects on 40 years since discovery. "Are we free? I don't know. But we're alive, we're conscious, we're capable of asking the question. Maybe that's all freedom ever was." Next generation's perspective: Young people don't struggle like her generation did. Maya's daughter (18): "So we're built for a purpose. So what? I still choose how I feel about it." Sarah: "You sound like your mother." Granddaughter: "She said you missed a lot." Sarah: "I did." "Was it worth it?" "I don't know. I did it anyway. Maybe that's all worth ever means." Marcus (now 68): Brief mention. Still alive, remarried. Someone shows Sarah a photo. She feels that sharp thing in her chest again. Still can't name it. Doesn't need to. New activation clusters beginning. Space travel, precisely on Aurelia's timeline. Final question: "If we meet other civilizations, will they be following code too? Is the entire universe just... instructions, all the way down?"
 
-**Sarah's final words:** "The Watcher stood with her mate's body for three days. The code didn't tell her to do that. The code would have said: keep working. She stopped. For three days. Then she went back. I don't know which part was real—the stopping or the returning. Maybe both. Maybe that's the answer."
+**Sarah's final words:** "Aurelia stood with her mate's body for three days. The code didn't tell her to do that. The code would have said: keep working. She stopped. For three days. Then she went back. I don't know which part was real—the stopping or the returning. Maybe both. Maybe that's the answer."
 
 **Key beats:**
 - Elderly Sarah, 40-year reflection
@@ -980,7 +980,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 - That feeling again
 - Space travel activating
 - Final question
-- Sarah's answer about The Watcher
+- Sarah's answer about Aurelia
 
 **Emotional arc:** Peace with uncertainty, generational shift in perspective, moving forward, mess accepted
 
@@ -1005,7 +1005,7 @@ The dinosaurs were far more intelligent than we ever imagined—capable of runni
 - For one day
 - Then returns to the work
 
-The code will be slightly different than The Watcher's.
+The code will be slightly different than Aurelia's.
 
 The feeling driving it—the same.
 
@@ -1017,7 +1017,7 @@ The feeling driving it—the same.
 - Alien world, avian intelligence
 - Incoming asteroid
 - Encoding begins
-- Parallel to The Watcher
+- Parallel to Aurelia
 - Mate dies
 - One-day pause
 - Return to work
@@ -1037,7 +1037,7 @@ The feeling driving it—the same.
 
 ## The Love Story Arc:
 
-**Part One:** The Watcher and The Companion—functional partnership, physical proximity, he dies, she pauses three days, returns to work
+**Part One:** Aurelia and The Companion—functional partnership, physical proximity, he dies, she pauses three days, returns to work
 
 **Part Two:** Sarah and Marcus—both activated, understand same hell, work together, Chapter 29 explodes
 
@@ -1077,7 +1077,7 @@ The feeling driving it—the same.
 
 5. **The Love Story Is Subtle:** Barely visible until Chapter 29, then you reread and see it was always there
 
-6. **The Cost Is Visible:** Sarah misses Maya's childhood. Marcus loses David. The Watcher works around her mate's corpse. Nothing is clean.
+6. **The Cost Is Visible:** Sarah misses Maya's childhood. Marcus loses David. Aurelia works around her mate's corpse. Nothing is clean.
 
 7. **Chapter 29 Is Uncomfortable:** Because real intimacy often is—it's messy, confusing, desperate, human
 
@@ -1133,7 +1133,7 @@ The book explores but doesn't answer:
    - Maybe that's enough
 
 4. **What's the difference between slavery and purpose?**
-   - The Watcher chose (if choosing is possible)
+   - Aurelia chose (if choosing is possible)
    - Sarah chooses (even if the capability was programmed)
    - Maybe the willingness to act despite uncertainty is freedom
 
@@ -1164,7 +1164,7 @@ The word "love" appears maybe 10 times in 128,000 words. The concept is every si
 
 Make it uncomfortable. Make it real. Make it messy. Make it human.
 
-And make The Watcher alien enough that when humans echo her 65 million years later, we understand: some things transcend species, transcend time, transcend code.
+And make Aurelia alien enough that when humans echo her 65 million years later, we understand: some things transcend species, transcend time, transcend code.
 
 **That's the book.**
 

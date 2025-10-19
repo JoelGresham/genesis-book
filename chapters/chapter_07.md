@@ -4,7 +4,7 @@ The wrongstar was visible during daylight now. Not bright enough to hurt to look
 
 1,847 rotations remaining.
 
-The Watcher's pattern had grown to encompass most of the clearing and extended into the forest beyond. Stones of every size marked positions in a three-dimensional grid that existed partly in physical space and partly in the conceptual space behind her eyes. To walk through it was to walk through mathematics made tangible.
+Aurelia's pattern had grown to encompass most of the clearing and extended into the forest beyond. Stones of every size marked positions in a three-dimensional grid that existed partly in physical space and partly in the conceptual space behind her eyes. To walk through it was to walk through mathematics made tangible.
 
 She spent more time still than moving now. Days would pass where she stood in one position, breathing perhaps twice per minute, eyes fixed on nothing or everything, while behind them entire evolutionary timelines unfolded and tested themselves against probability.
 
@@ -46,7 +46,7 @@ Then she settled down beside him.
 
 Not touching. Not providing aid—there was no aid to provide. She couldn't set the broken bone. Couldn't stop internal bleeding. Couldn't reverse impact trauma. She simply settled into a sitting position three body lengths away and stayed there.
 
-The young ones found them that evening. They approached carefully, confused by the stillness, by the disruption to normal pattern. The female chirped questioningly. The Watcher didn't respond.
+The young ones found them that evening. They approached carefully, confused by the stillness, by the disruption to normal pattern. The female chirped questioningly. Aurelia didn't respond.
 
 They investigated the fallen one from a distance, sensing injury, sensing the stillness that meant decline. The smallest one brought food and left it near the Watcher. She didn't acknowledge it.
 
@@ -78,9 +78,9 @@ She moved the stone to its correct position. It was too heavy for her alone—sh
 
 Then she returned to the body and sat for another hour.
 
-The young ones approached cautiously. The female chirped again. The Watcher made a sound back—an acknowledgment but not instruction. The young ones understood as much as they were capable of understanding. The other one who had been present was no longer present. The work continued anyway.
+The young ones approached cautiously. The female chirped again. Aurelia made a sound back—an acknowledgment but not instruction. The young ones understood as much as they were capable of understanding. The other one who had been present was no longer present. The work continued anyway.
 
-They needed to eat. The Watcher led them to hunt. They brought down prey efficiently, their technique refined by months of practice. She watched them eat. Consumed some herself. The mechanical requirement of survival satisfied.
+They needed to eat. Aurelia led them to hunt. They brought down prey efficiently, their technique refined by months of practice. She watched them eat. Consumed some herself. The mechanical requirement of survival satisfied.
 
 Then she returned to the body.
 

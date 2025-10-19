@@ -4,7 +4,7 @@ The pattern was complete.
 
 Not finished—it would never truly be finished, could always be refined, could always incorporate more detail. But complete in the sense that all necessary information had been encoded. All critical thresholds marked. All activation timelines established. All probability calculations rendered in stone and space and geometric relationship.
 
-The Watcher stood at the pattern's center and looked at what had been created. Years of work. Thousands of stones. Every piece positioned with mathematical precision. The entire thing functioned as a map, a guide, a set of instructions for creating technological civilization from small mammals across 65 million years.
+Aurelia stood at the pattern's center and looked at what had been created. Years of work. Thousands of stones. Every piece positioned with mathematical precision. The entire thing functioned as a map, a guide, a set of instructions for creating technological civilization from small mammals across 65 million years.
 
 If it could be read. If anyone survived to read it. If the right minds emerged to interpret geometric relationships as information rather than random scatter.
 
@@ -22,7 +22,7 @@ The tree-dwellers had developed complex social structures. Hierarchies based not
 
 Other mammal lineages showed different developments. Some had enhanced memory. Others showed better vocal control—the foundation for eventual language. Others showed increased manual dexterity beyond what their ecology strictly required. All selected traits. All guided evolution.
 
-The Watcher had marked each lineage's territory with stones. Not the complex patterns of the main work. Simple markers. Designations. This population carries tool-use genes. This population carries social-complexity genes. This population carries vocal-control genes. When they merged—if they merged—if they survived to merge—the combination of traits would create something greater than any individual lineage.
+Aurelia had marked each lineage's territory with stones. Not the complex patterns of the main work. Simple markers. Designations. This population carries tool-use genes. This population carries social-complexity genes. This population carries vocal-control genes. When they merged—if they merged—if they survived to merge—the combination of traits would create something greater than any individual lineage.
 
 The markers were arranged geographically to maximize survival probability while maintaining population separation. Distance enough to allow independent evolution. Proximity enough to enable eventual interbreeding once populations grew and ranges expanded.
 
@@ -62,7 +62,7 @@ And then, gradually, the work stopped.
 
 Not because it was complete—it could never be truly complete. But because there were no more stones to place. No more cliffs to carve. No more patterns to encode. The information that could be conveyed through physical positioning and geometric relationship had been conveyed. The rest would have to be carried in living flesh. In selected genes. In behavioral instinct encoded so deep that it would persist through 65 million years of evolution.
 
-The Watcher stood in her pattern and waited for the mammals to emerge for evening foraging. They came on schedule. The tool-user led her family group. They foraged efficiently, using tools to access food sources. They shared food with offspring, teaching technique. They demonstrated problem-solving, social cohesion, forward planning.
+Aurelia stood in her pattern and waited for the mammals to emerge for evening foraging. They came on schedule. The tool-user led her family group. They foraged efficiently, using tools to access food sources. They shared food with offspring, teaching technique. They demonstrated problem-solving, social cohesion, forward planning.
 
 She watched them with the same intensity she had watched the first tool-user years ago. But now she wasn't observing for new information. She was confirming that the traits had stabilized. That the modifications were complete. That what she had built into them would persist.
 
@@ -70,7 +70,7 @@ The tool-user noticed her watching. Paused in its foraging. They looked at each 
 
 The mammal didn't understand what it was. What it carried. What it would become.
 
-The Watcher understood completely.
+Aurelia understood completely.
 
 She made a soft sound. Not aggressive. Not possessive. Just... acknowledgment. The mammal had served its purpose. Had been shaped for a reason. Would carry forward the encoded potential even if it never knew why.
 
@@ -114,7 +114,7 @@ No one moved. No one calculated. No one worked. They simply stood together and w
 
 A young one—one of the daughter's hatchlings—broke the silence with a questioning chirp. Too young to understand. Too young to feel the weight of what approached. It was shushed gently by its parent.
 
-The Watcher looked at that young one. Calculated its age. It would be adolescent at impact. Old enough to hunt independently. Young enough that it might survive on less food during the resource-scarce years. Its survival probability was actually slightly higher than the adults'. Small size advantage. Lower caloric requirements. Better hide-and-wait capability.
+Aurelia looked at that young one. Calculated its age. It would be adolescent at impact. Old enough to hunt independently. Young enough that it might survive on less food during the resource-scarce years. Its survival probability was actually slightly higher than the adults'. Small size advantage. Lower caloric requirements. Better hide-and-wait capability.
 
 If it survived, if it bred after the impact, if it passed on any fragment of knowledge...
 
@@ -128,7 +128,7 @@ Over the following weeks, the pattern became... something else. Not abandoned. N
 
 Life continued around it. The mammals foraged and bred and raised young. The dinosaurs hunted and protected and maintained the selective pressures that shaped the mammal populations. But the feverish intensity was gone. The desperate push toward completion had completed. What remained was maintenance. Waiting. The patient countdown toward event horizon.
 
-The Watcher spent less time at the pattern. More time in simple observation. Watching the mammals. Watching the sky. Watching her family and the neighbors and the whole community of calculation that had emerged around the project.
+Aurelia spent less time at the pattern. More time in simple observation. Watching the mammals. Watching the sky. Watching her family and the neighbors and the whole community of calculation that had emerged around the project.
 
 She hunted more. Needed to rebuild reserves depleted by months of minimal intake. Her body had suffered from the sustained effort. She was thinner than healthy. Her feathers showed damage. She needed recovery time.
 

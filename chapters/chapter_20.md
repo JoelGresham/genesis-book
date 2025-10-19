@@ -190,7 +190,7 @@ Sarah felt something cold in her stomach. "I have them. Started three months ago
 
 Marcus nodded slowly. "In my dreams there's grief. Not mine. Older. Deeper. Like the pattern itself is grieving."
 
-"The Watcher," Sarah said. "The one who programmed this. I think they lost someone. I think the grief is theirs."
+"Aurelia," Sarah said. "The one who programmed this. I think they lost someone. I think the grief is theirs."
 
 "How do you know?"
 

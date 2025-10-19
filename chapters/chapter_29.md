@@ -74,7 +74,7 @@ Except how would she know?
 
 The modified mammals—did they feel this? This confusion of want and need and choice and instinct?
 
-Did The Watcher?
+Did Aurelia?
 
 Marcus pulled back. Breathing hard.
 
@@ -94,7 +94,7 @@ She thought: this is animal.
 
 Then: what else would it be?
 
-Then: did The Watcher's mate pin her against prehistoric stone like this? Did she stop caring whether it meant something or if it was just cells following chemical commands?
+Then: did Aurelia's mate pin her against prehistoric stone like this? Did she stop caring whether it meant something or if it was just cells following chemical commands?
 
 Did she just... feel it?
 
@@ -130,7 +130,7 @@ Silence.
 
 She sat up. Found her pants. Dressed without looking at him.
 
-"I think about her sometimes," she said. "The Watcher."
+"I think about her sometimes," she said. "Aurelia."
 
 Marcus sat up too.
 
@@ -152,7 +152,7 @@ All those years of compulsion. Building this. Sacrificing for it.
 
 For what? The future. The planet. People not born yet.
 
-For Maya. For David who died building it. For The Watcher who never saw it work.
+For Maya. For David who died building it. For Aurelia who never saw it work.
 
 The feeling in her chest sharpened.
 
@@ -194,7 +194,7 @@ Not the feeling itself—she still couldn't name it, couldn't separate it from b
 
 But the choosing. The doing it anyway. Even uncertain. Even confused.
 
-The Watcher chose to keep working after her mate died.
+Aurelia chose to keep working after her mate died.
 
 Not because she didn't feel something.
 
@@ -218,7 +218,7 @@ It wasn't separate from what they'd just done. It was the same thing. The same c
 
 She'd stopped trying to untangle it.
 
-Maybe The Watcher had too.
+Maybe Aurelia had too.
 
 ---
 
@@ -362,11 +362,11 @@ Sarah lay in her bunk and stared at the ceiling. The compulsion was quieter now�
 
 She thought about the morning. The floor. Marcus's weight. The confusion of wanting and needing and not knowing which was which.
 
-She thought about The Watcher standing with her dead mate's body for three days. Then returning to work. Encoding the future. Sacrificing everything for a timeline that wouldn't unfold for 65 million years.
+She thought about Aurelia standing with her dead mate's body for three days. Then returning to work. Encoding the future. Sacrificing everything for a timeline that wouldn't unfold for 65 million years.
 
 Had she loved him?
 
-The Watcher's kind didn't have language. Couldn't have articulated love if they felt it. But they had behavior. Proximity. Choice—if choice existed.
+Aurelia's kind didn't have language. Couldn't have articulated love if they felt it. But they had behavior. Proximity. Choice—if choice existed.
 
 She had stopped working for three days. That had to mean something.
 

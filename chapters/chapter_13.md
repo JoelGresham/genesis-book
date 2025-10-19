@@ -14,7 +14,7 @@ They moved toward their chosen places. Gathered with intention. Prepared for end
 
 ---
 
-The Watcher left her territory for the final time. The pattern would remain where it was. Already showing erosion from the violent weather. Stones displaced by wind. Sections disrupted. The encoding degrading as she had always known it would.
+Aurelia left her territory for the final time. The pattern would remain where it was. Already showing erosion from the violent weather. Stones displaced by wind. Sections disrupted. The encoding degrading as she had always known it would.
 
 It had served its purpose. Had existed long enough for verification. For contribution to collective understanding. For demonstrating that the mathematics was complete. What happened to it now was irrelevant.
 
@@ -30,7 +30,7 @@ The massive long-necks stood at the plateau's edge, their huge bodies somehow ap
 
 And everywhere, the small ones. The thinkers. The calculators. Hundreds of them. Standing in loose formation that somehow organized itself without coordination. Each individual finding a position that felt correct. That fit the mathematics of optimal witness configuration.
 
-The Watcher found her position. It was waiting for her—not marked, not designated, just recognized as correct when she arrived at it. She settled into stance and looked at the sky.
+Aurelia found her position. It was waiting for her—not marked, not designated, just recognized as correct when she arrived at it. She settled into stance and looked at the sky.
 
 Around the plateau, other gathering points were similarly occupied. She couldn't see them but knew they existed. The calculations had identified seventeen optimal witness locations given global distribution and viewing angle requirements. All seventeen would be occupied. All seventeen would observe the same event from different perspectives. Final data collection. Last confirmation that the trajectory calculations were correct.
 
@@ -42,7 +42,7 @@ Because that's what consciousness did. Observed. Calculated. Understood until un
 
 ---
 
-The Builder arrived at the plateau on the third day of gathering. The Watcher recognized him immediately—he had changed since she'd last seen him years ago, scarred and aged by the intensity of his work. But his posture was unmistakable. His movement patterns. The particular quality of stillness he achieved.
+The Builder arrived at the plateau on the third day of gathering. Aurelia recognized him immediately—he had changed since she'd last seen him years ago, scarred and aged by the intensity of his work. But his posture was unmistakable. His movement patterns. The particular quality of stillness he achieved.
 
 He found his position and settled. They were perhaps fifty body lengths apart. Close enough to acknowledge each other's presence. Far enough to maintain individual observational integrity.
 
@@ -80,7 +80,7 @@ Now they were together again.
 
 They entered the gathering side by side. Moving in perfect synchronization. Steps matched. Breathing aligned. They found a position near the plateau's center and settled together. Not just near each other. Pressed together. Flanks touching. Tails intertwined. Physical contact that was constant and complete.
 
-The Watcher observed this with the detached interest of someone watching mathematics resolve into behavior. They had maintained connection across vast distance through unknown means. Had worked separately while somehow remaining unified. Had calculated independently while arriving at identical conclusions. Now they reunited for the final witness.
+Aurelia observed this with the detached interest of someone watching mathematics resolve into behavior. They had maintained connection across vast distance through unknown means. Had worked separately while somehow remaining unified. Had calculated independently while arriving at identical conclusions. Now they reunited for the final witness.
 
 They were older now. One of them showed significant age—feathers thinned, movements slow, breathing labored. The other was healthier but not much. They had both pushed themselves to the limit of biological capability during the work years.
 
@@ -90,7 +90,7 @@ They knew this. The calculations were simple enough that even less sophisticated
 
 And they had chosen to die together. Pressed against each other. Unified until the end.
 
-The Watcher watched them and understood something that mathematics couldn't quite capture: the work was necessary, but it wasn't sufficient. The encoding mattered, but it wasn't everything. Connection existed that couldn't be quantified. That persisted despite separation. That manifested as physical proximity in final moments not because proximity increased survival probability but because it provided something else. Something the calculations couldn't incorporate but that consciousness required anyway.
+Aurelia watched them and understood something that mathematics couldn't quite capture: the work was necessary, but it wasn't sufficient. The encoding mattered, but it wasn't everything. Connection existed that couldn't be quantified. That persisted despite separation. That manifested as physical proximity in final moments not because proximity increased survival probability but because it provided something else. Something the calculations couldn't incorporate but that consciousness required anyway.
 
 She thought of the other one. The one who had helped with her pattern. Who had brought food. Who had stood with tail almost touching. Who had dispersed years ago into constituent elements and couldn't be here for final witness.
 
@@ -136,7 +136,7 @@ But they had the capability. The encoded traits. The selected characteristics th
 
 Eight percent. Still eight percent. The calculation hadn't changed. Wouldn't change now. Eight percent was what mathematics purchased given the constraints of reality.
 
-The Watcher looked at the gathering. Thousands of her kind standing in witness configuration. The most sophisticated consciousness the planet had yet produced. The deepest calculators. The furthest planners. The minds that could hold evolutionary timelines and probability curves and million-year projects in conscious thought.
+Aurelia looked at the gathering. Thousands of her kind standing in witness configuration. The most sophisticated consciousness the planet had yet produced. The deepest calculators. The furthest planners. The minds that could hold evolutionary timelines and probability curves and million-year projects in conscious thought.
 
 All of them about to disperse. All consciousness terminating simultaneously. All that intelligence vanishing in a moment.
 

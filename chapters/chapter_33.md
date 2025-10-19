@@ -252,11 +252,11 @@ Different species. Different solutions. Different implementations.
 
 Same pattern.
 
-The Watcher had discovered this pattern 65 million years ago. Had recognized that consciousness—any consciousness—faced the same problem. Mortality. Finitude. The knowledge that the self would end.
+Aurelia had discovered this pattern 65 million years ago. Had recognized that consciousness—any consciousness—faced the same problem. Mortality. Finitude. The knowledge that the self would end.
 
 And the same solution: pass something forward. Encode capability. Build for after.
 
-Whether that was choice or compulsion, The Watcher never knew. The Observer never knew. The thousands of species across billions of years who made the same decision never knew.
+Whether that was choice or compulsion, Aurelia never knew. The Observer never knew. The thousands of species across billions of years who made the same decision never knew.
 
 But they did it anyway.
 
@@ -312,7 +312,7 @@ And zero was unacceptable.
 
 And The Observer knew that.
 
-And The Watcher knew that.
+And Aurelia knew that.
 
 And Sarah knew that.
 

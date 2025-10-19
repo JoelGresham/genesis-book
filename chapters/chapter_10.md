@@ -80,7 +80,7 @@ The mammal examined the stick. Tested its weight. Checked the sharpness of the w
 
 It would use that stick again tomorrow. And the day after. Would use it until it broke or wore out, then create another like it. Had already taught the technique to offspring, who practiced with their own sticks. Had demonstrated the optimal shape, the best working techniques, the maintenance procedures.
 
-The Watcher had waited seventeen generations for this mutation.
+Aurelia had waited seventeen generations for this mutation.
 
 ---
 
@@ -132,7 +132,7 @@ Or it wouldn't.
 
 The mammal finished with the stick. Cached it carefully. Led its family to new foraging territory. Disappeared into the undergrowth.
 
-The Watcher stood watching the empty space where they had been. Ran the calculation one final time. From this moment forward across 65 million years to planetary defense capability.
+Aurelia stood watching the empty space where they had been. Ran the calculation one final time. From this moment forward across 65 million years to planetary defense capability.
 
 Eight percent.
 
@@ -174,7 +174,7 @@ Humanity was executing a program.
 
 ---
 
-The Watcher returned to stillness. The calculation was complete. The verification was done. The message was encoded in stone and flesh and the patient mathematics of deep time.
+Aurelia returned to stillness. The calculation was complete. The verification was done. The message was encoded in stone and flesh and the patient mathematics of deep time.
 
 742 rotations remaining.
 
@@ -196,7 +196,7 @@ If choice existed at all.
 
 If it mattered whether it did.
 
-The Watcher stood still as stone itself. The wrongstar burned above. The mammals lived their protected lives. The family maintained the territories. The pattern existed complete and verified and ready for eventual reading.
+Aurelia stood still as stone itself. The wrongstar burned above. The mammals lived their protected lives. The family maintained the territories. The pattern existed complete and verified and ready for eventual reading.
 
 The mathematics was complete.
 

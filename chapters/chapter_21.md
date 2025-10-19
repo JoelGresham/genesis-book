@@ -234,7 +234,7 @@ Because 0.23% was better than zero.
 
 And zero was unacceptable.
 
-And The Watcher had understood that 65 million years ago.
+And Aurelia had understood that 65 million years ago.
 
 And now Sarah understood it too.
 

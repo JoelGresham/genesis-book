@@ -22,7 +22,7 @@ Intelligent dinosaurs, facing extinction 65 million years ago, encoded humanity'
 ### Part One: The Architects (Chapters 1-15)
 - **Setting:** 65 million years ago
 - **Style:** Observational, documentary, no dialogue
-- **Focus:** The Watcher and other intelligent dinosaurs detecting an incoming asteroid and encoding planetary defense capability into mammalian DNA
+- **Focus:** Aurelia and other intelligent dinosaurs detecting an incoming asteroid and encoding planetary defense capability into mammalian DNA
 
 ### Part Two: The Inheritors (Chapters 16-32)
 - **Setting:** Present day
@@ -49,7 +49,7 @@ Intelligent dinosaurs, facing extinction 65 million years ago, encoded humanity'
 ## Key Characters
 
 ### Part One
-- **The Watcher** - Primary protagonist dinosaur, brilliant architect of the code
+- **Aurelia** - Primary protagonist dinosaur, brilliant architect of the code
 - **The Companion** - Her mate, dies mid-project
 - **Other Architects** - The Builder, The Pair, The Carver
 
@@ -184,7 +184,7 @@ Edit `genesis_book.tex` to change:
 ## Chapter List
 
 **Part One: The Architects**
-1. The Watcher
+1. Aurelia
 2. The Communities
 3. The Gathering
 4. The New Star
@@ -216,7 +216,7 @@ Edit `genesis_book.tex` to change:
 28. The Philosopher
 29. The Line *(The Love Scene - Most Critical in Part Two)*
 30. The Completion
-31. The Message *(Critical - The Watcher's Message)*
+31. The Message *(Critical - Aurelia's Message)*
 32. The Question
 
 **Epilogue**

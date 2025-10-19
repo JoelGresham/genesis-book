@@ -4,7 +4,7 @@ Six seasons passed.
 
 The young ones bred. The female with a male from a neighboring territory who had his own stone patterns, his own mathematics. The two males found mates similarly—females who understood the work, who contributed their own calculations. The pairings were functional. Complementary mathematics. Shared purpose.
 
-The Watcher didn't attend the pairings or involve herself in the breeding. She worked. The pattern had grown beyond massive. It sprawled across territories, incorporating natural features into its structure. A particular tree stood at one calculation node. A boulder marked another. The entire landscape had become encoded with meaning.
+Aurelia didn't attend the pairings or involve herself in the breeding. She worked. The pattern had grown beyond massive. It sprawled across territories, incorporating natural features into its structure. A particular tree stood at one calculation node. A boulder marked another. The entire landscape had become encoded with meaning.
 
 She stood in positions of stillness more often than not now. A full lunar cycle could pass with her motionless in a single spot, processing complexity that required days of uninterrupted calculation to resolve. The young ones—no longer young, fully adult now—brought her food. Placed it within reach. She consumed it automatically, never breaking concentration. Barely registering their presence.
 
@@ -12,7 +12,7 @@ They had learned to continue work during her stillness. Her pattern had its own 
 
 The mammals had changed across six seasons. The tool-using population had exploded. Forty individuals now where there had been one. Tool use was universal in this group. Passed from parent to offspring with complete reliability. Some individuals showed innovation—creating new tool types, finding new applications. The cognitive threshold had been crossed. Was continuing to cross, each generation slightly more capable than the last.
 
-The Watcher had expanded protection to other mammal species. The tree-dwellers with grasping hands. The ones who nested in family groups. The ones who demonstrated social complexity beyond simple hierarchy. Each species selected for specific traits. Each protected, guided, shaped toward a future they couldn't imagine.
+Aurelia had expanded protection to other mammal species. The tree-dwellers with grasping hands. The ones who nested in family groups. The ones who demonstrated social complexity beyond simple hierarchy. Each species selected for specific traits. Each protected, guided, shaped toward a future they couldn't imagine.
 
 Fifteen mammal lineages now under active cultivation. Fifteen separate probability trees. Most would terminate in extinction. But maybe one would persist. Maybe one would survive the impact winter, adapt to the changed world, continue evolving toward the necessary endpoint.
 
@@ -46,7 +46,7 @@ And so the work continued with desperate intensity.
 
 ---
 
-The Watcher had been standing still for forty-three days now. Her longest calculation yet. The pattern section she was processing required integrating every other section, all the work of all the contributors, into a unified timeline. The master calculation that would bind individual efforts into cohesive whole.
+Aurelia had been standing still for forty-three days now. Her longest calculation yet. The pattern section she was processing required integrating every other section, all the work of all the contributors, into a unified timeline. The master calculation that would bind individual efforts into cohesive whole.
 
 Around her, the adults who had been her young continued work. Her daughter—the female—brought food daily. Groomed the Watcher's feathers occasionally, removing parasites and debris from a body that no longer moved enough to maintain itself. The males maintained the protected mammal populations, drove away predators, ensured the selective breeding continued.
 
@@ -100,7 +100,7 @@ In the trees, the grasping-hand mammals slept in family groups. Showing social c
 
 Across the continent, thousands of individuals worked or rested or bred or died. All contributing what they could to a plan so vast and uncertain that belief in it was itself irrational. But the mathematics was sound. The calculations held. And what else could they do but try?
 
-The Watcher looked at the wrongstar and ran the impact timeline one more time. Velocity and trajectory and angle of approach. Mass and composition estimates. Impact energy. Global effects cascade. Climate disruption duration. Recovery timeline.
+Aurelia looked at the wrongstar and ran the impact timeline one more time. Velocity and trajectory and angle of approach. Mass and composition estimates. Impact energy. Global effects cascade. Climate disruption duration. Recovery timeline.
 
 99.7% of large organisms would die within three years. 94% of all species extinct within ten years. The world transformed. The climate shifted. The ecosystem collapsed and rebuilt from extremophiles and survivors and small creatures who could hide and wait.
 

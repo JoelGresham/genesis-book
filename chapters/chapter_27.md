@@ -232,7 +232,7 @@ But she knew it mattered. Knew Marcus's death meant something. Knew that the per
 
 The mathematics was complete. The loss was permanent. The proof was devastating and beautiful and final.
 
-And somewhere in the genetic code written 65 million years ago, maybe The Watcher had encoded this too. This exact moment. This exact choice. This exact sacrifice.
+And somewhere in the genetic code written 65 million years ago, maybe Aurelia had encoded this too. This exact moment. This exact choice. This exact sacrifice.
 
 Or maybe—just maybe—this was the part that wasn't encoded. The part that emerged from consciousness itself. The part that programming couldn't control.
 
