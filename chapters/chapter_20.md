@@ -1,5 +1,8 @@
 # Chapter 20: The Network
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00117_.png)
+
+
 The address James sent Sarah was wrong. Or incomplete. Or deliberately obscure. She stood on a Cambridge street corner at 11 PM staring at what was supposed to be a research facility but looked more like an abandoned bookstore. Closed sign in the window. No lights visible.
 
 Her phone buzzed: *Back entrance. Basement. -J*

@@ -1,5 +1,8 @@
 # Chapter 11: The Completion
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00088_.png)
+
+
 The work had shifted from creation to preservation. Nothing new could be added. The mathematics was complete. The encoding was finished. What remained was optimization—ensuring maximum survival probability for what already existed.
 
 400 rotations remaining.

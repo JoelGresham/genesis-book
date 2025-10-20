@@ -1,5 +1,8 @@
 # Chapter 27: The Builder
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00124_.png)
+
+
 Marcus understood structures. How forces distributed through materials. How loads transferred through joints. How to build things that wouldn't collapse under their own weight.
 
 It was his job once. Before activation. He'd been good at it. Won awards. Designed buildings that were beautiful and functional. Took pride in seeing his work standing against sky.

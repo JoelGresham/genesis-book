@@ -1,5 +1,8 @@
 # Chapter 5: The Patterns Emerge
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00064_.png)
+
+
 The work consumed everything.
 
 Aurelia's pattern grew from three stones to thirty, then three hundred. What had been a simple geometric proof became a sprawling calculation that covered most of the clearing and spilled into the surrounding forest. Some stones were large enough that she couldn't move them alone. The other one helped with these, and together they leveraged them into position using fallen branches and patient effort.

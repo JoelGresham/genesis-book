@@ -1,5 +1,8 @@
 # Chapter 14: The Last Gathering
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00092_.png)
+
+
 Three rotations remaining.
 
 The wrongstar was no longer star or disk or presence. It was everything. It filled the sky from horizon to horizon, dominating vision so completely that looking anywhere meant looking at it. The detail was overwhelming—craters and ridges and vast plains of different materials all visible on the approaching surface. Individual features larger than mountains. Topology that would reshape on impact, redistributing across the planet as ejecta and shockwave and devastating thermal pulse.

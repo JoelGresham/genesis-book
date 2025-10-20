@@ -1,5 +1,8 @@
 # Chapter 32: The Question
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00133_.png)
+
+
 The documentary crew took three hours to set up. Lights. Cameras. Sound equipment. Too much equipment for one elderly woman sitting in her living room answering questions about discoveries made fifty years ago. But this was the big interview. The definitive statement. Dr. Sarah Chen, at seventy-six years old, finally speaking comprehensively about the genetic programming of humanity.
 
 She'd refused interviews for decades. Let other people talk. Let younger researchers analyze and debate and philosophize. She'd done her work. Translated the message. Published the data. Then retreated to Montana to live out her years in the small house Marcus had built before he died.

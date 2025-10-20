@@ -1,5 +1,8 @@
 # Chapter 23: The Compulsion
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00120_.png)
+
+
 Six months after full activation, Sarah weighed 118 pounds. She'd been 142 before. The weight loss happened gradually then suddenly. Food was interruption. Sleep was interruption. Anything that wasn't work was noise to be minimized.
 
 She looked at herself in the bathroom mirror—rare moment of self-awareness between work sessions—and barely recognized the person staring back. Hollow eyes. Sharp cheekbones. Hair she'd been cutting herself because salons took time. She looked like the addicts she'd seen in documentaries. That comparison had stopped bothering her months ago.

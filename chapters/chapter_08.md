@@ -1,5 +1,8 @@
 # Chapter 8: The Acceleration
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00075_.png)
+
+
 Six seasons passed.
 
 The young ones bred. The female with a male from a neighboring territory who had his own stone patterns, his own mathematics. The two males found mates similarly—females who understood the work, who contributed their own calculations. The pairings were functional. Complementary mathematics. Shared purpose.

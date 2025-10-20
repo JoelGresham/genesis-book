@@ -1,5 +1,8 @@
 # Chapter 9: The Encoding
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00077_.png)
+
+
 The pattern was complete.
 
 Not finished—it would never truly be finished, could always be refined, could always incorporate more detail. But complete in the sense that all necessary information had been encoded. All critical thresholds marked. All activation timelines established. All probability calculations rendered in stone and space and geometric relationship.

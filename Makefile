@@ -1,8 +1,8 @@
-# Makefile for The Genesis Code LaTeX compilation
+# Makefile for Aurelia LaTeX compilation
 # Usage: make [target]
 
 # Main LaTeX file
-MAIN = genesis_book
+MAIN = aurelia
 TEX_FILE = $(MAIN).tex
 PDF_FILE = $(MAIN).pdf
 
@@ -97,7 +97,7 @@ wordcount:
 # Show help
 .PHONY: help
 help:
-	@echo "The Genesis Code - LaTeX Compilation"
+	@echo "Aurelia - LaTeX Compilation"
 	@echo ""
 	@echo "Available targets:"
 	@echo "  make          - Compile the book (default, runs LaTeX twice)"

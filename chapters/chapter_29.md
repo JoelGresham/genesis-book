@@ -1,5 +1,8 @@
 # Chapter 29: The Line
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00126_.png)
+
+
 The calibration locked in at 23:47. Sixteen months of work. Done.
 
 The hum in Sarah's head—the constant pressure that had pushed her through meals, through sleep, through Maya's graduation last year—went quiet.

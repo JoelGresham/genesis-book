@@ -1,5 +1,8 @@
 # Chapter 6: The Protectors
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00069_.png)
+
+
 The relationship between predator and prey had been established over millions of years. Simple rules: hunt or be hunted. Eat or be eaten. The small mammals lived in the spaces between larger creatures' attention, surviving through speed and stealth and reproductive proliferation.
 
 Now those rules were changing in ways that made no evolutionary sense.

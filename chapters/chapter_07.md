@@ -1,5 +1,8 @@
 # Chapter 7: The Mathematics
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00074_.png)
+
+
 The wrongstar was visible during daylight now. Not bright enough to hurt to look at, but present. A pale point in the blue sky that shouldn't exist. Every rotation it was more obvious. Every observation confirmed the calculations with increasing precision.
 
 1,847 rotations remaining.

@@ -1,5 +1,8 @@
 # Chapter 25: The Broadcast
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00122_.png)
+
+
 The video was simple. No special effects. No dramatic music. Just Sarah Chen sitting in a plain room with a camera and the weight of 65 million years of genetic programming on her shoulders.
 
 She'd recorded it seventeen times. Each version different. Each attempt trying to find the right tone. The right words. The right way to tell humanity that everything they thought about themselves was wrong.

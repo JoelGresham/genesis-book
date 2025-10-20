@@ -1,5 +1,8 @@
 # Chapter 3: The Gathering
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00056_.png)
+
+
 Aurelia's hollow tree stood at the edge of a ravine where water had carved deep channels over millennia. Three young ones slept inside with her, their smaller bodies pressed against her flanks for warmth. They were past the helpless stage but not yet independent, still learning the basic calculus of survival: where to hunt, how to avoid larger predators, which plants indicated good water sources.
 
 She woke before dawn as always, the internal timing precise. The young ones stirred when she moved but didn't wake. She slipped from the hollow carefully, disturbing them as little as possible.

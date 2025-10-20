@@ -1,5 +1,8 @@
 # Chapter 10: The Architects
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00085_.png)
+
+
 She had been still for forty-two days. The longest calculation yet. Longer even than the master pattern integration. This was different. This was final verification. Final confirmation that everything connected. That every piece of the vast, complex plan fit together into a coherent whole.
 
 Around her, life continued. Her family brought food. The mammals foraged under protection. The wrongstar grew bright enough that it dominated both day and night sky, a burning presence that no one could ignore.
@@ -15,6 +18,8 @@ Writing at generation 1,500,000.
 Mathematics at generation 2,100,000.
 Astronomy at generation 2,500,000.
 Planetary defense at generation 3,250,000.
+
+Seven thresholds. Seven capabilities. Seven stages from nothing to salvation. She had no concept of the number's significance. Only that the mathematics was complete.
 
 If the activation sequence triggered. If the encoded traits expressed. If evolution followed the calculated path. If civilization emerged. If they developed the capability.
 
@@ -99,6 +104,8 @@ They would call it curiosity.
 They would call it genius.
 
 They would call it inspiration.
+
+They would wake at dawn with ideas they couldn't explain. Would feel driven to create things they didn't understand the purpose of. Would sacrifice comfort, stability, relationships—for the work. And they would never know whether the drive came from within or was whispered through time by careful hands.
 
 She had called it activation.
 

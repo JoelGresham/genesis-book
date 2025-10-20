@@ -1,5 +1,8 @@
 # Chapter 31: The Message
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00132_.png)
+
+
 Sarah couldn't sleep after the museum visit. Nathaniel had asked 147 questions—she counted. Most were answerable. Some weren't. The one that stuck with her was the simplest:
 
 "Why did the dinosaurs die, Grandma?"

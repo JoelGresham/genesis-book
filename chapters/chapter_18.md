@@ -1,5 +1,8 @@
 # Chapter 18: The Historian
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00105_.png)
+
+
 Marcus Chen lived in a warehouse he'd converted to a workshop. When James and Sarah arrived, they found him surrounded by equipment that looked half-finished and entirely insane—metal frameworks, circuit boards, holographic projections, calculations covering every available wall surface.
 
 He was in his early forties, Asian-American, with hair that hadn't been cut in months and clothes that looked slept in. He was hunched over a workbench, soldering something Sarah couldn't identify, completely absorbed.

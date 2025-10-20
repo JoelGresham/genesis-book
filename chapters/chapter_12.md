@@ -1,5 +1,8 @@
 # Chapter 12: The Witness
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00089_.png)
+
+
 The young one had been watching for seventeen days now.
 
 She was not of the Watcher's family. Not even from particularly close territory. But she had traveled here deliberately, drawn by something she couldn't have named but felt with absolute certainty. The work happening in this clearing mattered. Was important in ways that exceeded individual survival or territory or the normal calculations of existence.

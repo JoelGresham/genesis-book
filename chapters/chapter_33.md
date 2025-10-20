@@ -1,5 +1,8 @@
 # Chapter 33: The Cycle
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00134_.png)
+
+
 The Observer traced patterns in the crystalline substrate. Electromagnetic frequencies shifting. Temperature gradients changing. The star—their star—behaving wrong.
 
 Not visibly. Not yet. But the mathematics was clear.

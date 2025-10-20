@@ -2,6 +2,9 @@
 
 # Chapter 16: The Sequence
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00103_.png)
+
+
 2:17 AM. Sarah Chen's eyes burned from staring at the screen. She should have gone home three hours ago. Should have been in bed four hours ago. Should have been a functional parent who made it to her daughter's school play last week instead of the geneticist who sent apologetic texts and promised to make it up somehow.
 
 The lab was silent except for the hum of equipment and the occasional click of her keyboard. Everyone else had gone home. Had lives. Had families. Had priorities that didn't include staring at genetic sequences until their vision blurred.

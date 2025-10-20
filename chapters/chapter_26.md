@@ -1,5 +1,8 @@
 # Chapter 26: The Resistance
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00123_.png)
+
+
 The movement called itself "Free Human." Not subtle. Not sophisticated. Just direct declaration of intent: reject the programming, reclaim autonomy, prove choice exists.
 
 They started with protests. Organized demonstrations outside research facilities. Outside warehouses where activated individuals worked. Outside government buildings that supported the defense grid.

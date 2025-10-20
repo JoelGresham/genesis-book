@@ -1,5 +1,8 @@
 # Chapter 2: The Communities
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00054_.png)
+
+
 Across the wide river, where the forest gave way to broken ground and exposed stone, another one worked.
 
 He was larger than the Watcher, heavier in build, with darker feathers that showed bronze in direct sunlight. He stood in the middle of a vast flat area of weathered rock, surrounded by stones of various sizes. Some he had carried here over days. Others had always been here, part of the landscape, but he had moved them. Arranged them. Destroyed the arrangement. Begun again.

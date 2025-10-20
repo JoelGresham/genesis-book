@@ -43,6 +43,22 @@ def process_markdown_to_latex(md_content, chapter_num):
         if i == 0 and line.startswith('# Chapter'):
             continue
 
+        # Handle images (e.g., ![Chapter Image](../images/...))
+        if line.strip().startswith('![') and '](' in line:
+            # Extract image path
+            img_match = re.search(r'!\[.*?\]\((.+?)\)', line)
+            if img_match:
+                img_path = img_match.group(1)
+                # Convert relative path to work from LaTeX root
+                # ../images/... becomes images/...
+                img_path = img_path.replace('../', '')
+                tex_lines.append('')
+                tex_lines.append(r'\begin{center}')
+                tex_lines.append(f'\\includegraphics[width=\\textwidth]{{{img_path}}}')
+                tex_lines.append(r'\end{center}')
+                tex_lines.append('')
+                continue
+
         # Handle scene breaks (horizontal rules or standalone ---)
         if line.strip() in ['---', '* * *', '***'] or line.startswith('---'):
             tex_lines.append('')

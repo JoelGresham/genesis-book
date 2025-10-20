@@ -1,5 +1,8 @@
 # Chapter 15: The Impact
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00098_.png)
+
+
 The light came first.
 
 Not from the wrongstar itself but from its interaction with the upper atmosphere. Friction. Compression. Air molecules forced aside at velocities they were never designed to accommodate. The energy of that displacement converting to heat. To light. To radiation across the spectrum.

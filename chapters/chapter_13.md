@@ -1,5 +1,8 @@
 # Chapter 13: The Silence
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00090_.png)
+
+
 The wrongstar filled a third of the sky now. Not a point. Not a disk. A presence. Massive enough that its shape was visible—irregular, tumbling slowly, the surface showing variations in brightness where different materials reflected differently. The tail streamed behind it like fire, stretching halfway across the visible sky.
 
 45 rotations remaining.

@@ -1,5 +1,8 @@
 # Chapter 1: Aurelia
 
+![Chapter Image](../images/chapterImages/genesis_sketch_00053_.png)
+
+
 The light came first, threading through the canopy in narrow shafts that turned the mist to silver. She stood in the clearing, perfectly still, her head tilted at an angle that would have seemed awkward if held by another creature but appeared natural on her. The position hadn't changed in three hours.
 
 Her eyes—large, forward-facing, amber in the growing dawn—tracked a point above the treeline. Not the sun. Something else. A star that didn't belong to the familiar patterns, though a human observer wouldn't have known to look for it. Wouldn't have known it was wrong.
